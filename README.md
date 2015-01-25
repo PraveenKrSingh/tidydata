@@ -1,7 +1,12 @@
-         
-		#MarkDown for the r-script "run_analysis.R"
+         			MARKDOWN
 
-       ## "run_analysis.R" creates tidy data for the data from wearable computing device
+
+
+
+#MarkDown for the r-script "run_analysis.R
+"
+
+## "run_analysis.R" creates tidy data for the data from wearable computing device
 
 
 ###steps followed :		
