@@ -6,11 +6,11 @@
 
 ###steps followed :		
 
-*[1]loading the "dplyr" data frame 
+-[1]loading the "dplyr" data frame 
 
-*[2]pulling in the data from the test folder into data frames
+-[2]pulling in the data from the test folder into data frames
 
-*[3]pulling in the data from the train folder into data frames
+-[3]pulling in the data from the train folder into data frames
 
 *[4]getting the names of the variable and putting it in the vector named "name"
 
