@@ -90,4 +90,4 @@ CODEBOOK
 	5.data is summarized based on the subject number and activity and mean of other variables is 
 	computed.
 	
-	6.This is out final result and is stored.
+	6.This is our final result and is stored.
