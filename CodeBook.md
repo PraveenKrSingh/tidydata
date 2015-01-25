@@ -1,4 +1,4 @@
-                   ##codebook for the tidy data available in tidy.txt
+                   codebook for the tidy data available in tidy.txt
 				 
 ###Source Data or Raw Data :
 
